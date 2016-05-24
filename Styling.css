@@ -1,0 +1,49 @@
+.heading{
+	color: black;
+	text-align: center;
+	font-family: Lucida Sans Unicode;
+	text-decoration: underline;
+}
+
+p{
+	color: white;
+	text-align: center;
+	text-align: center;
+	font-family: Lucida Sans Unicode;
+	font-size: 18px;
+}
+
+a:link{
+	color: #a6a6a6;
+}
+
+a:visited{
+	color: #8c8c8c;
+}
+
+
+.box{
+	border-color: #C70039;
+	border-style: inset;
+	border-width: 5px;
+	
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+	background-color: #bd2828;
+}
+
+img{
+	border-color: black;
+	border-style: inset;
+	border-width: 2px;
+}
+
+body{
+	background-image: url("Cryptography 5-23-2016.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
